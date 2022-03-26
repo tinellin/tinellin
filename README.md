@@ -29,32 +29,83 @@ img
   <a href="https://reactjs.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
   </a>
+  &nbsp;
+  &nbsp;
   
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"/>
   </a>
+  &nbsp;
+  &nbsp;
   
   <a href="https://nextjs.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/>
   </a>
+  &nbsp;
+  &nbsp;
   
   <a href="https://www.typescriptlang.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"" alt="Typescript"/>
   </a>
+  &nbsp;  
+  &nbsp;
   
   <a href="https://nestjs.com/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nestjs"/>
   </a>
+  &nbsp;
+  &nbsp;
                                                                                                                              
   <a href="https://pop.system76.com/">                                                                                                                     
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
   </a>
+  &nbsp;
+  &nbsp;
                                                                                                                              
   <a href="https://code.visualstudio.com/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/>
   </a>  
 </div>
                                                                                                                                             
-<div>
-  
+<h2>✨ My favorite repos ✨</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=fastudy&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-ignews&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-dashgo&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+                                                                                                                                            
+<h2> 🚀 Next Steps </h2>
+
+<div align="center">
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL"/>
+  &nbsp;
+  &nbsp;
+                                                                                                                                       
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs"/>
+  &nbsp;
+  &nbsp;
+                                                                                                                                       
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js"/>
+  &nbsp;
+  &nbsp;
+                                                                                                                                             
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Dockler"/>
+  &nbsp;
+  &nbsp;
+                                                                                                                                        
+  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
 </div>
+                                                                                                                                            
+<h1> 📩 How to reach me </h1>
+
+<div>
+  <a href="www.linkedin.com/in/enzo-tinelli">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>
+  
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=enzo.tinelli@unesp.br&tf=cm">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin"/>
+  </a>
+</div>
+                                                                                                                      
+![Snake animation](https://github.com/tinellin/tinellin/blob/output/github-contribution-grid-snake.svg)
+
