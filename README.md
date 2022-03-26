@@ -67,11 +67,15 @@ img
   </a>  
 </div>
                                                                                                                                             
-<h2>✨ My favorite repos ✨</h2>
+<h2>🔥 My favorite repos ✨</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=fastudy&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-ignews&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-dashgo&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-dashgo&theme=gotham)](https://github.com/anuraghazra/github-readme-stats
+)
+                                                                                                                                            
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=fastudy&theme=gotham"/>
+
                                                                                                                                             
 <h2> 🚀 Next Steps </h2>
 
@@ -101,11 +105,13 @@ img
   <a href="www.linkedin.com/in/enzo-tinelli">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
-  
+                                                                                                                            
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=enzo.tinelli@unesp.br&tf=cm">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin"/>
   </a>
 </div>
+                                                                                                                      
+##
                                                                                                                       
 ![Snake animation](https://github.com/tinellin/tinellin/blob/output/github-contribution-grid-snake.svg)
 
