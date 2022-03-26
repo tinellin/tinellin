@@ -25,30 +25,36 @@ img
 
 <h2> 🔮 My Stack</h2>
 
-<div align="center>"
-  <a>
+<div align="center">
+  <a href="https://reactjs.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
   </a>
   
-  <a>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"/>
+  </a>
+  
+  <a href="https://nextjs.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/>
   </a>
   
-  <a>
+  <a href="https://www.typescriptlang.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"" alt="Typescript"/>
   </a>
   
-  <a>
+  <a href="https://nestjs.com/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nestjs"/>
   </a>
-  
-  <a>
+                                                                                                                             
+  <a href="https://pop.system76.com/">                                                                                                                     
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
   </a>
                                                                                                                              
-  <a>
-    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-  </a>
-  
+  <a href="https://code.visualstudio.com/">
+    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/>
+  </a>  
+</div>
+                                                                                                                                            
+<div>
   
 </div>
