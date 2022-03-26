@@ -13,6 +13,7 @@
   <li> 🎓 I'm studying at São Paulo State University.</li>
   <li> 🔭 I'm currently a full-stack web development student (React Stack).</li>
   <li> 🌱 I'm learning React, Next.js, Redux and styling technologies.</li>
+  <li> 🚀 My goal at the moment is to become a full stack developer. </li>
   <li> ❤️ Interests: 💻 watch movies, series and animes, 🎮 play on the computer and 🎣 fish. </li>
 </ul>
 
