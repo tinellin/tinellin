@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/752375682608398357/956643392333430814/batima.gif" alt="O Batman que não ri"/>
+  <img width="800" height="400" src="https://media.discordapp.net/attachments/752375682608398357/956643392333430814/batima.gif" alt="O Batman que não ri"/>
 </div>
 
 <h2>💡 About me...</h2>
@@ -22,7 +22,9 @@
 </div>
 
 ##
-img
+<div align="center">
+  <img width="800" height="400" src="https://media.discordapp.net/attachments/752375682608398357/957372157283950673/city.gif" alt="Cidade"/>
+</div>
 
 <h2> 🔮 My Stack</h2>
 
