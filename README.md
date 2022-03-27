@@ -85,32 +85,24 @@
 <div align="center">
   <a href="https://graphql.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL"/>
-  </a>
-                                                                                                                                         
+  </a>                                                                                                                                 
   &nbsp;
   &nbsp;
-  
   <a href="https://nodejs.org/en/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs"/>
-  </a>
-                                                                                                                                         
+  </a>                                                                                                                                 
   &nbsp;
   &nbsp;
-  
   <a href="https://expressjs.com/pt-br/">
   <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js"/>
-  <a>
-             
+  <a>        
   &nbsp;
-  &nbsp;
-                                                                                                                                             
+  &nbsp;                                                                                                                                        
   <a href="https://www.docker.com/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
-   </a>
-                                                                                                                                         
+   </a>                                                                                                                                 
   &nbsp;
   &nbsp;
-  
   <a href="https://www.postgresql.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
    <a>
