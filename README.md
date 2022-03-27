@@ -35,7 +35,7 @@
   &nbsp;
   &nbsp;
   
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <a href="https://redux.js.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"/>
   </a>
   &nbsp;
@@ -83,29 +83,43 @@
 <h2> 🚀 Next Steps </h2>
 
 <div align="center">
-  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL"/>
+  <a href="https://graphql.org/">
+    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL"/>
+  </a>
+                                                                                                                                         
   &nbsp;
   &nbsp;
-                                                                                                                                       
-  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs"/>
+  
+  <a href="https://nodejs.org/en/">
+    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs"/>
+  </a>
+                                                                                                                                         
   &nbsp;
   &nbsp;
-                                                                                                                                       
+  
+  <a href="https://expressjs.com/pt-br/">
   <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js"/>
+  <a>
+             
   &nbsp;
   &nbsp;
                                                                                                                                              
-  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Dockler"/>
+  <a href="https://www.docker.com/">
+    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
+   </a>
+                                                                                                                                         
   &nbsp;
   &nbsp;
-                                                                                                                                        
-  <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  
+  <a href="https://www.postgresql.org/">
+    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+   <a>
 </div>
                                                                                                                                             
 <h1> 📩 How to reach me </h1>
 
 <div>
-  <a href="www.linkedin.com/in/enzo-tinelli">
+  <a href="https://www.linkedin.com/in/enzo-tinelli">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
                                                                                                                             
