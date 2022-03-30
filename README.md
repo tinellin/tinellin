@@ -72,12 +72,13 @@
                                                                                                                                             
 <h2>🔥 My favorite repos ✨</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-ignews&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-ignews&theme=gotham)](https://github.com/tinellin/ignite-ignews)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-dashgo&theme=gotham)](https://github.com/anuraghazra/github-readme-stats
-)
-                                                                                                                                            
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=fastudy&theme=gotham"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-dashgo&theme=gotham)](https://github.com/tinellin/ignite-dashgo)
+
+<a href="https://github.com/tinellin/fastudy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=fastudy&theme=gotham"/>
+</a>
 
                                                                                                                                             
 <h2> 🚀 Next Steps </h2>
@@ -100,7 +101,7 @@
   &nbsp;                                                                                                                                        
   <a href="https://www.docker.com/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker"/>
-   </a>                                                                                                                                 
+   </a>                                                                                                     
   &nbsp;
   &nbsp;
   <a href="https://www.postgresql.org/">
