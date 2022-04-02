@@ -23,7 +23,7 @@
 
 ##
 <div align="center">
-  <img width="800" height="400" src="https://media.discordapp.net/attachments/752375682608398357/957372157283950673/city.gif" alt="Cidade"/>
+  <img width="800" height="400" src="https://cdn.discordapp.com/attachments/752375682608398357/959816500380860486/tenor.gif" alt="Zenitsu sleeping"/>
 </div>
 
 <h2> 🔮 My Stack</h2>
@@ -59,7 +59,7 @@
   &nbsp;
   &nbsp;
                                                                                                                              
-  <a href="https://pop.system76.com/">                                                                                                                     
+  <a href="https://pop.system76.com/">                                                                                                                   
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
   </a>
   &nbsp;
