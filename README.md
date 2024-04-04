@@ -11,8 +11,9 @@
 
 <ul>
   <li> 🎓 I'm studying at São Paulo State University.</li>
-  <li> 🔭 I'm currently a full-stack web development student (React Stack).</li>
-  <li> 🌱 I'm learning React, Next.js, Redux and styling technologies.</li>
+  <li>👨🏻‍💻 I'm currently an intern at Icaro Tech.</li>
+  <li> 🔭 I'm a full-stack web development student.</li>
+  <li> 🌱 I'm currently interested in the React and Spring Boot Stack.</li>
   <li> 🚀 My goal at the moment is to become a full stack developer. </li>
   <li> ❤️ Interests: 💻 watch movies, series and animes, 🎮 play on the computer and 🎣 fish. </li>
 </ul>
@@ -35,12 +36,6 @@
   &nbsp;
   &nbsp;
   
-  <a href="https://redux.js.org/">
-    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux"/>
-  </a>
-  &nbsp;
-  &nbsp;
-  
   <a href="https://nextjs.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/>
   </a>
@@ -50,23 +45,24 @@
   <a href="https://www.typescriptlang.org/">
     <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"" alt="Typescript"/>
   </a>
+  
   &nbsp;  
   &nbsp;
   
   <a href="https://nestjs.com/">
-    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nestjs"/>
+    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot"/>
   </a>
   &nbsp;
   &nbsp;
                                                                                                                              
   <a href="https://pop.system76.com/">                                                                                                                   
-    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka"/>
   </a>
   &nbsp;
   &nbsp;
                                                                                                                              
   <a href="https://code.visualstudio.com/">
-    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/>
+    <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/>
   </a>  
 </div>
                                                                                                                                             
