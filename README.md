@@ -16,7 +16,6 @@
 
 
 <h4>💡 About me...</h3>
-<hr>
 <ul>
   <li> 🎓 I am studying at São Paulo State University.</li>
   <li>👨🏻‍💻 I am currently an intern at Icaro Tech.</li>
@@ -25,22 +24,18 @@
 </ul>
 
 <h4>💼 Currently working with...</h3>
-<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=spring,react,postgres,postman,git,docker,kafka,idea)](https://skillicons.dev)
 
 <h4>📖 Studying </h3>
-<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
 <h4>📖 Interested in technologies </h3>
-<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=graphql,pytorch,nestjs,go)](https://skillicons.dev)
                                                                                                                                             
 <h4>🔥 My favorite repos ✨</h3>
-<hr>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-ignews&theme=gotham)](https://github.com/tinellin/ignite-ignews)
 &nbsp;&nbsp;&nbsp;&nbsp;
