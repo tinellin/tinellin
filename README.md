@@ -15,7 +15,7 @@
 </div>
 
 
-<h3>💡 About me...</h3>
+<h4>💡 About me...</h3>
 <hr>
 <ul>
   <li> 🎓 I am studying at São Paulo State University.</li>
@@ -24,22 +24,22 @@
   <li> ❤️ I am interested in studying data science and deep learning. </li>
 </ul>
 
-<h3>💼 Currently working with...</h3>
+<h4>💼 Currently working with...</h3>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=spring,react,postgres,postman,git,docker,kafka,idea)](https://skillicons.dev)
 
-<h3>📖 Studying </h3>
+<h4>📖 Studying </h3>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
-<h3>📖 Interested in technologies </h3>
+<h4>📖 Interested in technologies </h3>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=graphql,pytorch,nestjs,go)](https://skillicons.dev)
                                                                                                                                             
-<h3>🔥 My favorite repos ✨</h3>
+<h4>🔥 My favorite repos ✨</h3>
 <hr>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tinellin&repo=ignite-ignews&theme=gotham)](https://github.com/tinellin/ignite-ignews)
@@ -55,5 +55,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinellin&layout=compact&theme=gotham"/>
 </div>
                                                                                                                       
-![Snake animation](https://github.com/tinellin/tinellin/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
