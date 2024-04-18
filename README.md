@@ -43,7 +43,7 @@
 
                                                                                                                      
 <div align="center">
-  <img width="800" height="400" src="./zenitsu-sleeping.gif" alt="Zenitsu sleeping"/>
+  <img width="500" height="300" src="./zenitsu-sleeping.gif" alt="Zenitsu sleeping"/>
 </div>
 
 <div align="center">
