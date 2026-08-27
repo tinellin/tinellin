@@ -17,10 +17,3 @@
   <li> 👨🏻‍💻 I’m currently working at Icaro Tech as a Software Engineer</li>
   <li> ⌨️ I’m currently improving my skills with Python. </li>
 </ul>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinellin&layout=compact&theme=gotham"/>
-</div>
-                                                                                                                      
-![Snake animation](https://raw.githubusercontent.com/tinellin/tinellin/output/github-contribution-grid-snake-dark.svg)
-
