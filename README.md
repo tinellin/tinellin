@@ -13,6 +13,6 @@
 
 <h4>💡 About me...</h3>
 <ul>
-  <li> 🎓 Bachelor of Computer Science, São Paulo State University - UNESP.</li>
-  <li> 👨🏻‍💻 I’m currently working at Icaro Tech as a Software Engineer</li>
+  <li> 🎓 B.Sc. in Computer Science, São Paulo State University (UNESP)</li>
+  <li> 👨🏻‍💻 Currently working as a software engineer at Icaro Tech.</li>
 </ul>
