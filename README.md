@@ -11,7 +11,6 @@
 </div>
 
 
-<h4>💡 About me...</h3>
 <ul>
   <li> 🎓 B.Sc. in Computer Science, São Paulo State University (UNESP)</li>
   <li> 👨🏻‍💻 Currently working as a software engineer at Icaro Tech.</li>
