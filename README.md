@@ -6,5 +6,5 @@
 <ul>
   <li> B.Sc. in Computer Science, São Paulo State University (UNESP).</li>
   <li> Currently working as a software engineer at Icaro Tech.</li>
-  <li> How to reach me <b>enzo.tinelli03@gmail.com</b></li>
+  <li> How to reach me <b>enzo.tinelli03@gmail.com</b>.</li>
 </ul>
